@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "label": "THE GENESIS COLLECTION",
+    "headline_line1": "LEXOM will make",
+    "headline_line2": "your life easier",
+    "subtext": "Explore our best products to find what you want, there you will definitely find it.",
+    "cta": "Shop Now",
+    "background_text": "LEXOM",
+    "video_card_title": "Shop Wristwatchs",
+    "video_card_subtitle": "www.lexom.com"
+  },
+  "storytelling": {
+    "label": "THE EXPERIENCE",
+    "headline_light": "Worn like a",
+    "headline_bold": "second skin.",
+    "cards": [
+      {
+        "category": "ENGINEERING",
+        "title": "Movement: Swiss Caliber 101.",
+        "description": "High-precision automatic mechanical movement for reliable timekeeping."
+      },
+      {
+        "category": "CASING", 
+        "title": "Casing: Aerospace Grade 5 Titanium.",
+        "description": "Engineered for extreme durability and featherlight build."
+      },
+      {
+        "category": "MATERIAL",
+        "title": "Crystal: Double-domed Anti-reflective Sapphire.",
+        "description": "Scratch-resistant sapphire glass with multiple anti-reflective layers for ultimate clarity."
+      }
+    ],
+    "cta": "SHOP NOW"
+  },
+  "gallery": {
+    "label": "OUR COLLECTION",
+    "headline": "The Collection",
+    "search_placeholder": "Search watches...",
+    "filters": {
+      "sizes": ["38mm", "40mm", "42mm", "44mm"],
+      "colors": ["Silver", "Black", "Gold"],
+      "straps": ["Titanium", "Rubber", "Leather"]
+    },
+    "load_more": "Load More"
+  },
+  "craftsmanship": {
+    "label": "HERITAGE & ENGINEERING",
+    "headline_bold": "Precision Without",
+    "headline_light": "Compromise.",
+    "body_text": "Every LEXOM timepiece stems from an obsession with mechanical perfection. We bridge the gap between heavy industrial power and refined, modern luxury aesthetics for a new generation of collectors.",
+    "stats": [
+      { "label": "Power Reserve", "value": "72h" },
+      { "label": "Jewels", "value": "32" },
+      { "label": "Vibrations", "value": "28,800/h" }
+    ]
+  },
+  "brand_video": {
+    "label": "THE MANIFESTO",
+    "tagline": "Time is the ultimate luxury."
+  },
+  "footer": {
+    "background_text": "LEXOM",
+    "nav_links": ["Shop", "Our Story", "Craftsmanship", "Contact", "Care Guide"],
+    "legal": ["Privacy Policy", "Terms of Service", "Shipping Policy"],
+    "copyright": "© 2026 LEXOM Pakistan. All rights reserved.",
+    "newsletter": {
+      "heading": "Join the Inner Circle",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    }
+  }
+}

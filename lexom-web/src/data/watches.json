@@ -1,0 +1,104 @@
+[
+  {
+    "id": "lx-101",
+    "name": "Observatory Tourbillon",
+    "collection": "Genesis",
+    "price": 385000,
+    "size": "42mm",
+    "color": "Silver",
+    "strap": "Titanium",
+    "description": "Forged from aerospace-grade titanium, featuring a complex automatic tourbillon movement and an exposed skeleton dial.",
+    "specs": [
+      "72h Power Reserve",
+      "32 Jewels",
+      "Water Resistant 100m",
+      "Sapphire Crystal"
+    ],
+    "image": "/images/watches/observatory-silver.webp"
+  },
+  {
+    "id": "lx-102",
+    "name": "Phantom Automatic",
+    "collection": "Genesis",
+    "price": 245000,
+    "size": "40mm",
+    "color": "Black",
+    "strap": "Rubber",
+    "description": "A stealth masterpiece with a brushed stealth-machined case, PVD coating, and a fluoroelastomer strap for maximum comfort.",
+    "specs": [
+      "48h Power Reserve",
+      "24 Jewels",
+      "Water Resistant 200m",
+      "Anti-Reflective Coating"
+    ],
+    "image": "/images/watches/phantom-black.webp"
+  },
+  {
+    "id": "lx-103",
+    "name": "Apex Chronograph",
+    "collection": "Vanguard",
+    "price": 315000,
+    "size": "42mm",
+    "color": "Silver",
+    "strap": "Leather",
+    "description": "Premium surgical steel casing coupled with a hand-stitched Italian leather strap. Designed for the modern motorsport enthusiast.",
+    "specs": [
+      "Tachymeter Scale",
+      "Flyback Chronograph",
+      "Double Sapphire",
+      "Super-LumiNova"
+    ],
+    "image": "/images/watches/apex-silver.webp"
+  },
+  {
+    "id": "lx-104",
+    "name": "Eclipse Diver",
+    "collection": "Vanguard",
+    "price": 275000,
+    "size": "44mm",
+    "color": "Black",
+    "strap": "Titanium",
+    "description": "Built for the extremes. Features a unidirectional ceramic bezel and a helium escape valve for deep-sea exploration.",
+    "specs": [
+      "300m Rating",
+      "Helium Valve",
+      "Ceramic Bezel",
+      "Glidelock Clasp"
+    ],
+    "image": "/images/watches/eclipse-black.webp"
+  },
+  {
+    "id": "lx-105",
+    "name": "Nova Skeleton",
+    "collection": "Heritage",
+    "price": 420000,
+    "size": "40mm",
+    "color": "Gold",
+    "strap": "Leather",
+    "description": "Showcasing the beating mechanical heart. 18k rose gold PVD accents over a meticulously skeletonized dial architecture.",
+    "specs": [
+      "Skeletonized Movement",
+      "Exhibition Caseback",
+      "Alligator Motif",
+      "Hand-wound"
+    ],
+    "image": "/images/watches/nova-gold.webp"
+  },
+  {
+    "id": "lx-106",
+    "name": "Zenith Minimal",
+    "collection": "Heritage",
+    "price": 195000,
+    "size": "38mm",
+    "color": "Silver",
+    "strap": "Rubber",
+    "description": "The ultimate expression of reduction. Three precise hands on a sunburst dial, housed in a thin-profile casing.",
+    "specs": [
+      "Ultra-thin profile",
+      "Sunburst Effect Dial",
+      "50m Rating",
+      "Hidden Clasp"
+    ],
+    "image": "/images/watches/zenith-silver.webp"
+  }
+]

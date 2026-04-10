@@ -1,0 +1,269 @@
+
+> lexom-web@0.0.0 dev
+> vite
+
+[2m8:20:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+Port 3000 is in use, trying another one...
+
+  [32m[1mVITE[22m v8.0.3[39m  [2mready in [0m[1m799[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3001[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m8:23:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:32:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m8:41:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:41:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:42:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:42:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:42:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:42:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:42:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:42:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:43:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:43:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:44:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:45:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:45:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:46:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:46:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:46:27 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] Error:[0m Expected `,` or `}` but found `Identifier`
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/sections/1_Hero.jsx:408:11 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m406 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249mv[0m[38;5;249m [0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249my[0m[38;5;249ml[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m{[0m{
+ [38;5;240m    │[0m                     ┬  
+ [38;5;240m    │[0m                     ╰── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m408 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0mbackground[38;5;249m:[0m[38;5;249m [0m[38;5;249m`[0m[38;5;249mr[0m[38;5;249ma[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249ma[0m[38;5;249ml[0m[38;5;249m [0m[38;5;249m-[0m[38;5;249m [0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249ma[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249m([0m
+ [38;5;240m    │[0m           ─────┬────  
+ [38;5;240m    │[0m                ╰────── `,` or `}` expected
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/lexom/lexom-web/src/sections/1_Hero.jsx[39m
+      at transformWithOxc (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:3720:19)
+      at TransformPluginContext.transform (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:3788:26)
+      at EnvironmentPluginContainer.transform (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:30048:51)
+      at async loadAndTransform (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:24177:26)
+      at async viteTransformMiddleware (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:24986:20)
+[2m8:46:27 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/sections/1_Hero.jsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m8:46:28 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] Error:[0m Expected `,` or `}` but found `Identifier`
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/sections/1_Hero.jsx:408:11 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m406 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249mv[0m[38;5;249m [0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249my[0m[38;5;249ml[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m{[0m{
+ [38;5;240m    │[0m                     ┬  
+ [38;5;240m    │[0m                     ╰── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m408 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0mbackground[38;5;249m:[0m[38;5;249m [0m[38;5;249m`[0m[38;5;249mr[0m[38;5;249ma[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249ma[0m[38;5;249ml[0m[38;5;249m [0m[38;5;249m-[0m[38;5;249m [0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249ma[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249m([0m
+ [38;5;240m    │[0m           ─────┬────  
+ [38;5;240m    │[0m                ╰────── `,` or `}` expected
+[38;5;246m─────╯[0m
+
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/lexom/lexom-web/src/sections/1_Hero.jsx[39m
+[2m8:46:28 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] Error:[0m Expected `,` or `}` but found `Identifier`
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/sections/1_Hero.jsx:408:11 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m406 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249mv[0m[38;5;249m [0m[38;5;249ms[0m[38;5;249mt[0m[38;5;249my[0m[38;5;249ml[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m{[0m{
+ [38;5;240m    │[0m                     ┬  
+ [38;5;240m    │[0m                     ╰── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m408 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0mbackground[38;5;249m:[0m[38;5;249m [0m[38;5;249m`[0m[38;5;249mr[0m[38;5;249ma[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249ma[0m[38;5;249ml[0m[38;5;249m [0m[38;5;249m-[0m[38;5;249m [0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249ma[0m[38;5;249md[0m[38;5;249mi[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249m([0m
+ [38;5;240m    │[0m           ─────┬────  
+ [38;5;240m    │[0m                ╰────── `,` or `}` expected
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/lexom/lexom-web/src/sections/1_Hero.jsx[39m
+      at transformWithOxc (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:3720:19)
+      at TransformPluginContext.transform (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:3788:26)
+      at EnvironmentPluginContainer.transform (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:30048:51)
+      at async loadAndTransform (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:24177:26)
+      at async viteTransformMiddleware (file:///D:/lexom/lexom-web/node_modules/vite/dist/node/chunks/node.js:24986:20)
+[2m8:46:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:46:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:46:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:47:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:48:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:48:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:48:49 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:49:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:49:31 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:49:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:50:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:50:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:50:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:50:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:50:49 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:50:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:51:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:51:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:51:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:52:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:52:09 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:53:31 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:54:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:54:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:54:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:54:53 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mReferenceError[22m: black is not defined
+[39m > Hero src/sections/1_Hero.jsx:650:19
+    648 |              fontWeight: 800,
+    649 |              fontSize: 'clamp(4.5rem, 20vw, 7rem)',
+    650 |              color: black,
+        |                     ^
+    651 |              whiteSpace: 'nowrap',
+    652 |              letterSpacing: '0.05em',
+ > Object.react_stack_bottom_frame node_modules/react-dom/cjs/react-dom-client.development.js:25904:19
+ > renderWithHooks node_modules/react-dom/cjs/react-dom-client.development.js:7662:21
+ > updateFunctionComponent node_modules/react-dom/cjs/react-dom-client.development.js:10166:18
+ > beginWork node_modules/react-dom/cjs/react-dom-client.development.js:11778:17
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17641:21
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+
+[2m8:54:53 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <Hero> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+[2m8:54:53 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mReferenceError[22m: black is not defined
+[39m > Hero src/sections/1_Hero.jsx:650:19
+    648 |              fontWeight: 800,
+    649 |              fontSize: 'clamp(4.5rem, 20vw, 7rem)',
+    650 |              color: black,
+        |                     ^
+    651 |              whiteSpace: 'nowrap',
+    652 |              letterSpacing: '0.05em',
+ > Object.react_stack_bottom_frame node_modules/react-dom/cjs/react-dom-client.development.js:25904:19
+ > renderWithHooks node_modules/react-dom/cjs/react-dom-client.development.js:7662:21
+ > updateFunctionComponent node_modules/react-dom/cjs/react-dom-client.development.js:10166:18
+ > beginWork node_modules/react-dom/cjs/react-dom-client.development.js:11778:17
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17641:21
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+
+[2m8:54:53 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <Hero> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+[2m8:54:54 AM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mReferenceError[22m: black is not defined
+[39m > Hero src/sections/1_Hero.jsx:650:19
+    648 |              fontWeight: 800,
+    649 |              fontSize: 'clamp(4.5rem, 20vw, 7rem)',
+    650 |              color: black,
+        |                     ^
+    651 |              whiteSpace: 'nowrap',
+    652 |              letterSpacing: '0.05em',
+ > Object.react_stack_bottom_frame node_modules/react-dom/cjs/react-dom-client.development.js:25904:19
+ > renderWithHooks node_modules/react-dom/cjs/react-dom-client.development.js:7662:21
+ > updateFunctionComponent node_modules/react-dom/cjs/react-dom-client.development.js:10166:18
+ > beginWork node_modules/react-dom/cjs/react-dom-client.development.js:11778:17
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17641:21
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+
+[2m8:54:54 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <Hero> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+[2m8:54:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:55:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:55:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:56:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:56:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:57:11 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:57:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:57:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:58:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:58:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:58:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:58:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:59:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:59:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:59:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:59:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m8:59:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:01:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:01:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:01:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:01:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:02:01 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:02:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:03:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:03:16 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:03:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:03:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:03:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:04:11 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:04:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:04:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:05:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:05:49 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:06:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:06:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:07:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:09:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:09:11 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:09:50 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:09:57 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:10:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:10:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:11:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:11:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:11:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:11:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:12:27 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:12:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:12:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:12:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:13:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:13:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:13:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:13:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:14:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:14:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:15:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/3d/WebGPUSphere.jsx[22m
+[2m9:16:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:16:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:17:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:17:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:17:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:17:45 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:18:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:18:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:18:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:18:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:18:53 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:19:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:20:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:20:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:20:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:20:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:21:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:22:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:22:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:22:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:22:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:23:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Navbar.jsx, /src/index.css[22m
+[2m9:23:47 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:24:03 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:24:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:24:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:25:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:25:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+[2m9:25:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/sections/1_Hero.jsx, /src/index.css[22m
+^C
