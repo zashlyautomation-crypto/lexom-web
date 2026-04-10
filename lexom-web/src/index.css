@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,100..1000;1,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Outfit:wght@100..900&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
 
 /* ─── TAILWIND v4 CUSTOM THEME ──────────────────────────────── */
 :root {
@@ -27,9 +28,6 @@
   --breakpoint-xl: 1280px;
   --breakpoint-2xl: 1536px;
 }
-
-/* Fonts are imported via Google Fonts for reliability and weight variety */
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,100..1000;1,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Outfit:wght@100..900&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
 
 /* ─── GLOBAL RESET ────────────────────────────────────────────── */
 *,
