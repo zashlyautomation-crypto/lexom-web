@@ -60,16 +60,16 @@ export default function App() {
       <IntroTransition />
 
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/about" element={<AboutPage />} />
-        <Route path="/collection" element={<CollectionPage />} />
-        <Route path="/brand" element={<BrandPage />} />
-        <Route path="/product/:id" element={<ProductOverviewPage />} />
-        <Route path="/checkout" element={<CheckoutPage />} />
-        
+        <Route path="/lexom-web/" element={<HomePage />} />
+        <Route path="/lexom-web/about" element={<AboutPage />} />
+        <Route path="/lexom-web/collection" element={<CollectionPage />} />
+        <Route path="/lexom-web/brand" element={<BrandPage />} />
+        <Route path="/lexom-web/product/:id" element={<ProductOverviewPage />} />
+        <Route path="/lexom-web/checkout" element={<CheckoutPage />} />
+
         {/* Redirects for common missing paths or old links */}
-        <Route path="/home" element={<Navigate to="/" replace />} />
-        <Route path="/story" element={<Navigate to="/about" replace />} />
+        <Route path="/lexom-web/home" element={<Navigate to="/" replace />} />
+        <Route path="/lexom-web/story" element={<Navigate to="/about" replace />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
       <CartSidebar />

@@ -9,7 +9,7 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
-  base: '/',
+  base: '/lexom-web',
   resolve: {
     alias: {
       'three': 'three'
